@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565690502141",
+    "firebase_url": "https://checkandgo-a950c-default-rtdb.firebaseio.com",
+    "project_id": "checkandgo-a950c",
+    "storage_bucket": "checkandgo-a950c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565690502141:android:aece1eefef74acb0faa794",
+        "android_client_info": {
+          "package_name": "com.example.checkgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565690502141-sqc9mphvoe75vcpidic3l7fudhbcgvbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.checkgo",
+            "certificate_hash": "36a1d8645bbec98f2c377976e02b5439838e6333"
+          }
+        },
+        {
+          "client_id": "565690502141-g200ib4t7jhbfqc2jd5k5lp0ifipddk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3iGHT-OtlAvtAKIaUX10nEt-PznlfWDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565690502141-g200ib4t7jhbfqc2jd5k5lp0ifipddk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

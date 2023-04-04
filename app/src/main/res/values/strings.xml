@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Check&amp;Go</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="usernameOptional">username (optional)</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="repeat_password">repeat password</string>
+    <string name="default_info_title" />
+    <string name="default_info_snippet" />
+    <string name="pick_place" />
+
+    <string-array name="type">
+        <item>Other</item>
+        <item>Outdoor</item>
+        <item>Indoor</item>
+        <item>Family</item>
+        <item>Sport</item>
+        <item>Board games</item>
+        <item>Social</item>
+    </string-array>
+    <string-array name="city">
+        <item>Other</item>
+        <item>Vilnius</item>
+        <item>Klaipeda</item>
+        <item>Viana</item>
+        <item>Porto</item>
+    </string-array>
+</resources>
